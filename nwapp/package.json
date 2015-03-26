@@ -9,8 +9,8 @@
     "type": "git",
     "url": ""
   },
-  "main": "index.html",
-  "node-main": "nodeMain.js",
+  "main": "http://127.0.0.1:9000",
+  "node-main": "server.js",
   "single-instance": true,
   "chromium-args": "",
   "dom_storage_quota": 1024,
